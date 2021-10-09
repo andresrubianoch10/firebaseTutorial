@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Firebase</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Registrar</string>
+    <string name="access">Acceder</string>
+    <string name="close_session">Cerrar sesión</string>
 </resources>
